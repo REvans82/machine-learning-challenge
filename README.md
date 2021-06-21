@@ -1,4 +1,3 @@
-# machine-learning-challenge
 # Machine Learning Homework - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
@@ -98,4 +97,3 @@ In this homework assignment, you will need to:
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-
