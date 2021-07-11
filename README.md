@@ -1,6 +1,15 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![](Images/exoplanets.jpg)
+
+![](Images/hubbl.png)
+
+|----------------------------------|
+Model Comparison Summary:
+|---------------------------------------------------------------------------------------------------------------|
+The logistic regression model generated an accuracy rate of 0.85 and the random forest model had 0.88, which is relatively similar as it pertains to the NASA planting hunting event. The logistic regression model performs better when the # of variables si less/equal to  the # of exploratory varialbes. However, the random forest model has the ability to generate a higher true and false positive as the # of exploratory variables increases in a dataset. My assumption is that the NASA exploratory event would encounter millions of random planets during this venture. Therefore, I decided on the logistic regression model.
+
+---------------------------------------------------------------------------------------------------------------
+![exoplanets.jpg](Images/exoplanets.jpg)
 
 ### Before You Begin
 
